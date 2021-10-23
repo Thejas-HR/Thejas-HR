@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thejas-HR
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thejas.hr07@gmail.com
 
 <!---
